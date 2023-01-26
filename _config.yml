@@ -1,5 +1,17 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: <p align="center"> Piyali Podder</p>
+logo: /assets/Piyali.jpeg
+ 
+ description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Profile</a> |
+  <a href="linkedin.com/in/piyali-podder-610b78175">LinkedIn</a> |
+  <a href="https://github.com/PtechSvy">GitHub</a>
+  </p>
+
+<br>  
+  I'm working on Automation Testing for both UI and API Services leveraging different tools and frameworks,
+   Deployments, Data Analysis related problems for around 10 years.
+  <br>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
